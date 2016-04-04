@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Hung/Develop/AndroidStudio/UmpireIndicator_1_5_8/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="actionbar_about">关于</string>
+    <string name="actionbar_bugreport">BUG回报</string>
+    <string name="actionbar_options">设定</string>
+    <string name="actionbar_rating">评分</string>
+    <string name="addball">您确定要『增加』一个『坏球数』吗？</string>
+    <string name="addhit">你确定增加一个『安打』数吗？</string>
+    <string name="addout">您确定要『增加』一个『出局数』吗？</string>
+    <string name="addscore">您确定要『进分』吗？</string>
+    <string name="addstrike">您确定要『增加』一个『好球数』吗？</string>
+    <string name="app_name">棒垒好坏球计数器</string>
+    <string name="balllow0">坏球数不能少于0</string>
+    <string name="balllow1">坏球数不能少于1</string>
+    <string name="change">三出局攻守交换</string>
+    <string name="close">关闭</string>
+    <!-- From: file:/C:/Users/Hung/Develop/AndroidStudio/UmpireIndicator_1_5_8/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/res/values-zh-rCN/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="473679118463211576" name="common_android_wear_notification_needs_update_text">"某个应用需要更新Android Wear应用才能正常运行。"</string>
+    <string msgid="3046420540094071256" name="common_android_wear_update_text">"只有更新Android Wear应用后，此应用才能正常运行。"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"更新Android Wear"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"启用Google Play服务"</string>
+    <string msgid="7627896071867667758" name="common_google_play_services_enable_text">"您必须先启用Google Play服务才能运行此应用。"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"启用Google Play服务"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>发出的请求"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"获取Google Play服务"</string>
+    <string msgid="8685301130651051380" name="common_google_play_services_install_text_phone">"您的手机中没有Google Play服务，您必须先安装该服务才能运行此应用。"</string>
+    <string msgid="1589957570365247855" name="common_google_play_services_install_text_tablet">"您的平板电脑中没有Google Play服务，您必须先安装该服务才能运行此应用。"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"获取Google Play服务"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐户，请选择其他帐户。"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"无效帐户"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"启用Google Play服务后才能运行应用。"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入Google Play服务。"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"网络错误"</string>
+    <string msgid="8120534356798772974" name="common_google_play_services_notification_needs_installation_title">"安装Google Play服务后才能运行应用。"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"更新Google Play服务后才能运行应用。"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play服务出现未知问题。"</string>
+    <string msgid="3542578567569488671" name="common_google_play_services_unsupported_text">"您的设备不支持部分应用所依赖的Google Play服务。请与设备制造商联系，以寻求帮助。"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="448354684997260580" name="common_google_play_services_update_text">"您必须先更新Google Play服务才能运行此应用。"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"更新Google Play服务"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"登录"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"使用Google帐户登录"</string>
+    <!-- From: file:/C:/Users/Hung/Develop/AndroidStudio/UmpireIndicator_1_5_8/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="dialog_action_dismiss">确定</string>
+    <string name="dialog_message">chihungdevelop.gmail.com</string>
+    <string name="dialog_title">问题回报与建议</string>
+    <string name="doublecheck">重复确认</string>
+    <string name="doublechecksummary">增加好球、坏球等是否出现确认视窗</string>
+    <string name="doubleclick">再按一次结束比赛</string>
+    <string name="editor">作者</string>
+    <string name="gamecontinue">比赛继续</string>
+    <string name="gameispausing">比赛暂停中...</string>
+    <string name="gametimesup">比赛时间到</string>
+    <string name="gotoplayrating">到Google Play为本程式评分吧！</string>
+    <string name="gotorating">去评分</string>
+    <string name="hitterout">打者出局</string>
+    <string name="layout_addscore">进分</string>
+    <string name="layout_baseball">棒球</string>
+    <string name="layout_cancel">取消</string>
+    <string name="layout_done">完成</string>
+    <string name="layout_gametime">比赛时间</string>
+    <string name="layout_give">让</string>
+    <string name="layout_givepointstohome">让分给后攻队</string>
+    <string name="layout_givepointstovisiting">让分给先攻队</string>
+    <string name="layout_handicap">让分</string>
+    <string name="layout_hit">安打</string>
+    <string name="layout_hometeam">后攻</string>
+    <string name="layout_minute">分钟</string>
+    <string name="layout_pause">暂停</string>
+    <string name="layout_playball">比赛开始</string>
+    <string name="layout_point">分</string>
+    <string name="layout_reducescore">退分</string>
+    <string name="layout_runs">得分</string>
+    <string name="layout_softball">慢速垒球</string>
+    <string name="layout_sports">比赛项目</string>
+    <string name="layout_team">队伍</string>
+    <string name="layout_visitingteam">先攻</string>
+    <string name="messege">讯息</string>
+    <string name="noneforever">永远不需要</string>
+    <string name="nonenow">现在还不要</string>
+    <string name="out">出局</string>
+    <string name="outlow0">出局数不能少于0</string>
+    <string name="pass">保送</string>
+    <string name="pausetoast">时间尚未暂停，欲暂停请先按下暂停纽</string>
+    <string name="pleasechoicesport">请先选择比赛项目</string>
+    <string name="reduceball">您确定要『减少』一个『坏球数』吗？</string>
+    <string name="reduceout">您确定要『减少』一个『出局数』吗？</string>
+    <string name="reducescore">您确定要『退分』吗？</string>
+    <string name="reducestrike">您确定要『减少』一个『好球数』吗？</string>
+    <string name="runnerout">跑者出局</string>
+    <string name="scorelow">分数不能为负</string>
+    <string name="sound">音效</string>
+    <string name="strikelow0">好球数不能少于0</string>
+    <string name="strikelow1">好球数不能少于1</string>
+    <string name="timeisover">计时已结束</string>
+    <string name="timesup">时间到</string>
+    <string name="vername">版本号</string>
+    <string name="vibrate">震动</string>
+    <string name="yes">是的</string>
+</resources>

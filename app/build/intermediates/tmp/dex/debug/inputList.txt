@@ -1,0 +1,5 @@
+C:\Users\Hung\Develop\AndroidStudio\UmpireIndicator_1_5_8\app\build\intermediates\classes\debug
+C:\Users\Hung\Develop\AndroidStudio\UmpireIndicator_1_5_8\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-bca0b9013a49605ec59a36d00ec0ae68af273ab8.jar
+C:\Users\Hung\Develop\AndroidStudio\UmpireIndicator_1_5_8\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-aa9c77643d9fff1c84eafcc5137782dec5e68a9f.jar
+C:\Users\Hung\Develop\AndroidStudio\UmpireIndicator_1_5_8\app\build\intermediates\pre-dexed\debug\classes-98e4057a5f7d1b0529a635c2252963a8325d2767.jar
+C:\Users\Hung\Develop\AndroidStudio\UmpireIndicator_1_5_8\app\build\intermediates\pre-dexed\debug\classes-0e2ec3b94f392d7e88e31998c3cfe3d8900d1903.jar

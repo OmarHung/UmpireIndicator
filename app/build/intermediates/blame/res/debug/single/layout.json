@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_indicatorfortime.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\layout\\activity_indicatorfortime.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_indicator.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\layout\\activity_indicator.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pointspread.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\layout\\activity_pointspread.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    }
+]

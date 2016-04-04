@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="vibrate"
+        android:title="@string/vibrate" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="doublecheck"
+        android:summary="@string/doublechecksummary"
+        android:title="@string/doublecheck" />
+
+</PreferenceScreen>

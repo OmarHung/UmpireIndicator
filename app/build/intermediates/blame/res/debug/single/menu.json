@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionbar_layout_options.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\menu\\actionbar_layout_options.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\indicator.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\menu\\indicator.xml"
+    },
+    {
+        "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="chihhung.umpireindicator.MainActivity" >
+ 
+   <item
+        android:id="@+id/actionbar_options"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/actionbar_options"/>
+</menu>
+<!-- From: file:/C:/Users/Hung/Develop/AndroidStudio/UmpireIndicator_1_5_8/app/src/main/res/menu/indicator.xml -->
