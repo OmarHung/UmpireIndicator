@@ -4,8 +4,20 @@
         "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\menu\\actionbar_layout_options.xml"
     },
     {
+        "merged": "D:\\Git\\UmpireIndicator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\indicator.xml",
+        "source": "D:\\Git\\UmpireIndicator\\app\\src\\main\\res\\menu\\indicator.xml"
+    },
+    {
+        "merged": "D:\\Git\\UmpireIndicator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Git\\UmpireIndicator\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
         "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\indicator.xml",
         "source": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\src\\main\\res\\menu\\indicator.xml"
+    },
+    {
+        "merged": "D:\\Git\\UmpireIndicator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionbar_layout_options.xml",
+        "source": "D:\\Git\\UmpireIndicator\\app\\src\\main\\res\\menu\\actionbar_layout_options.xml"
     },
     {
         "merged": "I:\\Develop\\AndroidStudio\\UmpireIndicator_1_5_8\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
